@@ -1,3 +1,6 @@
+https://curtis.delicata.me.uk/login
+Username: admin@example.net
+Password: password
 <!--h-->
 # Laravel Genealogy - Built with Enso
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
